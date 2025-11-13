@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josholopez
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m passionate about **Data Engineering** and currently transitioning into this field.
+- 🌱 I’m actively learning and applying **Python programming** for data processing, automation, and analytics.
+- 💞️ I’m looking to collaborate on **Python-based projects**, especially those involving data pipelines, ETL processes, and analytics workflows
 - 📫 How to reach me: on LinkedIn https://www.linkedin.com/in/yosuar-lopez/
 
 <!---
